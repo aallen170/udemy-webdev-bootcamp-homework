@@ -1,0 +1,13 @@
+div.findThis {
+    color: darkcyan;
+    font-size: 40px;
+    font-weight: 800;
+    background-color: lightblue;
+}
+
+span.findThis {
+    color: darkcyan;
+    font-size: 40px;
+    font-weight: 800;
+    background-color: lightgreen;
+}
